@@ -1,5 +1,7 @@
 Procedural Landmass Generation Project in Unity.
 
+Downloadable demo on itch.io https://mmaxg.itch.io/procedural-landmass-generation
+
 A simulation of a world, fully playable. (following Sebastian Lague's video series)
 
 ![image](https://github.com/MMaxG/ProceduralLandmassGeneration/assets/64195483/5a448006-d1fc-4931-9105-a7ba38458c16)
